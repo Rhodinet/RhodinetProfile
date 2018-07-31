@@ -1,0 +1,55 @@
+body{
+    /*background: #e2e2e2;*/
+    background: #ffffff ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto;
+}
+.profile{
+    margin-bottom: 10px;
+}
+.profile-top{
+    min-height: 200px;
+    /*background: #666;*/
+    background: rgb(16, 55, 88);
+}
+.profile-image{
+    margin-top: -100px;
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    
+    border: 4px solid #eea236;
+}
+.profile-body{
+    padding: 20px;
+    text-align: center;
+    color: rgb(16, 55, 88);
+}
+.text-color{
+    color: rgb(16, 55, 88);
+}
+.linkedin-logo{
+    height: 20px;
+    width: 20px;
+    margin-bottom: -10px;
+}
+.btn-warning{
+    color: #fff;
+    background-color: #f0ad4e;
+    border-color: #eea236;
+}
+.btn-group-lg {
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+.btn-primary4 {
+    color: #fff;
+    background-color: rgb(16, 55, 88);
+    border-color: #2e6da4;
+}
+.footer{
+    background-color: #042038;
+    min-width: 1000px;
+    min-height: 100px
+}
